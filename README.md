@@ -142,7 +142,7 @@ $ cd latihan1``
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-![gambar30](ss/ss30.png)
+![gambar31](ss/ss31.png)
 
 
 
