@@ -110,7 +110,7 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
-![gambar27](ss/ss27.png)
+![gambar34](ss/ss34.png)
 * Server reopsitory yang akan kita gunakan adalah (http://github.com)
 ![gambar19](ss/ss19.png)
 * Anda harus membuat akun terlebih dahulu.
