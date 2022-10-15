@@ -136,13 +136,14 @@ $ cd latihan1``
 
 * Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 `$ git push -u origin master`
+![gambar31](ss/ss31.png)
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-![gambar28](ss/ss28.png)
+
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-![gambar31](ss/ss31.png)
+![gambar32](ss/ss32.png)
 
 
 
